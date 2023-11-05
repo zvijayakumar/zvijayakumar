@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zvijayakumar or 'Z'
-- 📄 I have 5 years of Experience in Data Engineering and Analytics
+- 📄 I have 6 years of Experience in Data Engineering and Analytics
 - 👀 I’m interested in Data Engineering, Open Source and Analytics related stuff
 - 🌱 I’m currently learning Kafka and open-source analytical software and tools
 - 💞️ I’m looking to collaborate on Data Engineering and Data Analytics
