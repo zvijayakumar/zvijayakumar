@@ -32,7 +32,7 @@
 - **GitHub**: [github.com/zvijayakumar](https://github.com/zvijayakumar)  
 - **Email**: zvijayakumar0@gmail.com  
 
-✨ Fun Fact: I’m always up for a chat at **data conferences**, especially in **Berlin**!  
+✨ Fun Fact: I’m always up for a chat at **data conferences**, especially in **Europe**!  
 <!---
 zvijayakumar/zvijayakumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
